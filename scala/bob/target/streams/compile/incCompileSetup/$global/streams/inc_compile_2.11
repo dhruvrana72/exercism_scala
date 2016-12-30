@@ -1,0 +1,246 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Bob$$anonfun$isShouting$1.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Bob.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/TestScala$.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/TestScala.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$1.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$main$1.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$main$2.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$.class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample.class
+binary dependencies:
+9 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> /home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> /home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> /home/sodel/exercism_exercises/scala/bob/lib/spark-core_2.11-1.6.3.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/lib/spark-core_2.11-1.6.3.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /home/sodel/exercism_exercises/scala/bob/lib/spark-mllib_2.11-1.6.3.jar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Bob
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Bob$$anonfun$isShouting$1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> TestScala
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> TestScala$
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample$
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample$$anonfun$1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample$$anonfun$main$1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample$$anonfun$main$2
+used names:
+120 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> &&
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> <init>
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> ==
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Any
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> AnyRef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Bob
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Boolean
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Char
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Function1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Object
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> Predef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> RichChar
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> String
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> StringOps
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> answerStatement
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> augmentString
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> charWrapper
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> endsWith
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> exists
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> isEmpty
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> isLetter
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> isQuestion
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> isShouting
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> isSilence
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> scala
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> statement
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> toUpperCase
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> trim
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> +
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> <init>
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> A
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Any
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> AnyRef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Array
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Nothing
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Object
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Predef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> SparkConf
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> SparkContext
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> String
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> TestScala
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> Unit
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> any2stringadd
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> apache
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> conf
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> org
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> println
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> sc
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> scala
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> setAppName
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> setMaster
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> spark
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> <init>
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> <repeated>
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Any
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> AnyRef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Array
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> ArrayOps
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Boolean
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Class
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> ClassTag
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Double
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> FilterMonadic
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Function1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Int
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Iterable
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> MatchError
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Nothing
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Object
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Predef
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> RDD
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> S
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Seq
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> SparkConf
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> SparkContext
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> String
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> StringContext
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> T
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Tuple2
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> U
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Unit
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2Vec
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecExample
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> Word2VecModel
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> _$7
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> _1
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> _2
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> apache
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> apply
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> conf
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> cosineSimilarity
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> feature
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> findSynonyms
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> fit
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> foreach
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> input
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> line
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> map
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> materializeClassTag
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> mllib
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> model
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> ne
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> org
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> package
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> println
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> refArrayOps
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> s
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> scala
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> scn
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> setAppName
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> setMaster
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> spark
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> split
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> synonym
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> synonyms
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> textFile
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> toSeq
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> unchecked
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> withFilter
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> word2vec
+product stamps:
+9 items
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Bob$$anonfun$isShouting$1.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Bob.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/TestScala$.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/TestScala.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$1.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$main$1.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$$anonfun$main$2.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample$.class -> lastModified(1481692951000)
+/home/sodel/exercism_exercises/scala/bob/target/scala-2.11/classes/Word2VecExample.class -> lastModified(1481692951000)
+source stamps:
+3 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> hash(eec13ff271ed3b9e878a1b663db7a4d382f5e77b)
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> hash(391974e6aacbdf8c28534aa9912f15bd32346308)
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> hash(f1de8eecdccb0fbc24ff199d73a22a6bb9f4d3b5)
+binary stamps:
+4 items
+/home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/home/sodel/exercism_exercises/scala/bob/lib/spark-core_2.11-1.6.3.jar -> lastModified(1481536128000)
+/home/sodel/exercism_exercises/scala/bob/lib/spark-mllib_2.11-1.6.3.jar -> lastModified(1481536493000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1477592329000)
+class names:
+4 items
+/home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.mutable.ArrayOps
+/home/sodel/exercism_exercises/scala/bob/lib/spark-core_2.11-1.6.3.jar -> org.apache.spark.SparkContext
+/home/sodel/exercism_exercises/scala/bob/lib/spark-mllib_2.11-1.6.3.jar -> org.apache.spark.mllib.feature.Word2Vec
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+3 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwE8Vt2gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJZh7GXQABm5vdGlmeXNxAH4ADPsOKNZ0AAppc1F1ZXN0aW9uc3EAfgAMdpqzInQACWlzU2lsZW5jZXNxAH4ADBGOZPR0AAppc1Nob3V0aW5nc3EAfgAMRVk7P3QABHdhaXRzcQB+AAy9hexkdAANJGFzSW5zdGFuY2VPZnNxAH4ADN9WB910AAZlcXVhbHNzcQB+AAyWnjbYdAAMYXNJbnN0YW5jZU9mc3EAfgAMHdru+nQADHN5bmNocm9uaXplZHNxAH4ADIFAny10AA0kaXNJbnN0YW5jZU9mc3EAfgAME9xsuHQACW5vdGlmeUFsbHNxAH4ADMGPbKF0AANCb2JzcQB+AAz9N6shdAAMaXNJbnN0YW5jZU9mc3EAfgAMy4Zs4nQABjxpbml0PnNxAH4ADEG6A2N0AAI9PXNxAH4ADNYZDjt0AAVjbG9uZXNxAH4ADLgVqeN0AA9hbnN3ZXJTdGF0ZW1lbnRzcQB+AAx13ouBdAAIdG9TdHJpbmdzcQB+AAyhEBpxdAACIT1zcQB+AAxKz5HEdAAIZ2V0Q2xhc3NzcQB+AAy/we5MdAACbmVzcQB+AAycJJHSdAADaGV5c3EAfgAMH97GkXQAAmVxc3EAfgAMV7sZO3QAAiMjc3EAfgAMEMLnLHQACGZpbmFsaXplc3EAfgAM3O5h2XQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AS0wACWluaGVyaXRlZHEAfgBLTAAHcGFyZW50c3EAfgBLeHEAfgBnc3EAfgBidXEAfgBGAAAAAHNxAH4AYnVxAH4ARgAAAABzcQB+AGJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH90AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIBzcQB+AHN0AANBbnlzcQB+AHdzcQB+AHp1cQB+AH0AAAACc3EAfgB/dAAFc2NhbGFxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY+8f2u3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9zb2RlbC9leGVyY2lzbV9leGVyY2lzZXMvc2NhbGEvYm9iL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTuwT/yce07noeKG2Y9t6TTgvXnew==
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQ6RWEQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw9biV4HQABm5vdGlmeXNxAH4ADL7R7pt0AAR3YWl0c3EAfgAMenkbk3QADSRhc0luc3RhbmNlT2ZzcQB+AAzI0XURdAAGZXF1YWxzc3EAfgAMe+88m3QADGFzSW5zdGFuY2VPZnNxAH4ADFx9XUJ0AAxzeW5jaHJvbml6ZWRzcQB+AAzcWgE+dAANJGlzSW5zdGFuY2VPZnNxAH4ADDEOInt0AARtYWluc3EAfgAMaKkD9HQACW5vdGlmeUFsbHNxAH4ADMOZ2MF0AAxpc0luc3RhbmNlT2ZzcQB+AAy7Gh9fdAACPT1zcQB+AAwePrUCdAAFY2xvbmVzcQB+AAwd+0tadAAJVGVzdFNjYWxhc3EAfgAMImWZGHQACHRvU3RyaW5nc3EAfgAMsjtBkHQAAiE9c3EAfgAMC8+7gnQACGdldENsYXNzc3EAfgAM+H0tjHQAAm5lc3EAfgAM4lkrkXQAAmVxc3EAfgAM7rEpt3QAAiMjc3EAfgAMJ9WwiXQACGZpbmFsaXplc3EAfgAM6QnytnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AHXVxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY+8f2u3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9zb2RlbC9leGVyY2lzbV9leGVyY2lzZXMvc2NhbGEvYm9iL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ5GXTmqsvfjChTSqmRLxW9MjRjCA==
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsZANzwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzBcCPHQABm5vdGlmeXNxAH4ADL8cA0F0AAR3YWl0c3EAfgAM4xaFQHQADSRhc0luc3RhbmNlT2ZzcQB+AAwDCXBbdAAPV29yZDJWZWNFeGFtcGxlc3EAfgAMpJzndXQABmVxdWFsc3NxAH4ADMOhiFJ0AAxhc0luc3RhbmNlT2ZzcQB+AAzL59YJdAAMc3luY2hyb25pemVkc3EAfgAM1Cvc9XQADSRpc0luc3RhbmNlT2ZzcQB+AAzs1wg/dAAEbWFpbnNxAH4ADBjSCUR0AAlub3RpZnlBbGxzcQB+AAxvtAw9dAAMaXNJbnN0YW5jZU9mc3EAfgAMmbsbrnQAAj09c3EAfgAMNpFkU3QABWNsb25lc3EAfgAMZWPAf3QACHRvU3RyaW5nc3EAfgAMC5p55XQAAiE9c3EAfgAM86gNT3QACGdldENsYXNzc3EAfgAMOoV21nQAAm5lc3EAfgAM+V8xvHQAAmVxc3EAfgAMBmNeDnQAAiMjc3EAfgAMPCB6QHQACGZpbmFsaXplc3EAfgAM2s9X1HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFY+8f2u3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvaG9tZS9zb2RlbC9leGVyY2lzbV9leGVyY2lzZXMvc2NhbGEvYm9iL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTx3o7s3MsPvCT/GZ1zoiprufTTtQ==
+external apis:
+0 items
+source infos:
+3 items
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Bob.scala -> 
+AAAAAAAAAAA=
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/TestScala.scala -> 
+AAAAAAAAAAA=
+/home/sodel/exercism_exercises/scala/bob/src/main/scala/Word2VecExample.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlXvfJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlY3Cd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlaT8Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlcHXV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlk6p51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWNlmRvV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWPvH9rt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9ib2IvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

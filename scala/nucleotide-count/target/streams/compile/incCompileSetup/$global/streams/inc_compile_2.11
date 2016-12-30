@@ -1,0 +1,162 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+9 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1$$anonfun$apply$1.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1$$anonfun$apply$2.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$1.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$2.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3$$anonfun$apply$4.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3.class
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA.class
+binary dependencies:
+2 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+9 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$count$1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$count$1$$anonfun$apply$1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$count$1$$anonfun$apply$2
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$nucleotideCounts$1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$nucleotideCounts$2
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$nucleotideCounts$3
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3$$anonfun$apply$4
+used names:
+61 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> $conforms
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> <:<
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> <byname>
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> <init>
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> <refinement>
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> <repeated>
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> ==
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> A
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> A1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> AA
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Any
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> AnyRef
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> B
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Boolean
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> CanBuildFrom
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Char
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> DNA
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Either
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Function1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> IndexedSeq
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Int
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Left
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Map
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Nothing
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Object
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Option
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Predef
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Product
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Right
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> RightProjection
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Serializable
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> String
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> StringContext
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> StringOps
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> T
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> T1
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> T2
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> That
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Tuple2
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> U
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> Y
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> augmentString
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> contains
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> count
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> counts
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> fallbackStringCanBuildFrom
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> find
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> flatMap
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> get
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> getOrElse
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> map
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> n
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> nucleotide
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> nucleotideCounts
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> package
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> right
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> s
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> scala
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> strand
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> toMap
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> unary_!
+product stamps:
+9 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1$$anonfun$apply$1.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1$$anonfun$apply$2.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$count$1.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$1.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$2.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3$$anonfun$apply$4.class -> lastModified(1482301144000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3$$anonfun$apply$3.class -> lastModified(1482301144000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA$$anonfun$nucleotideCounts$3.class -> lastModified(1482301143000)
+/home/sodel/exercism_exercises/scala/nucleotide-count/target/scala-2.11/classes/DNA.class -> lastModified(1482301143000)
+source stamps:
+1 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> hash(583f8c3152853063e3b8eb776c0a189c6a23c036)
+binary stamps:
+2 items
+/home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1477592329000)
+class names:
+2 items
+/home/sodel/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.collection.immutable.Map
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqL2fVwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwVR0+IXQABm5vdGlmeXNxAH4ADEo6srl0AAVjb3VudHNxAH4ADOVWpWd0AAR3YWl0c3EAfgAMWCk1B3QADSRhc0luc3RhbmNlT2ZzcQB+AAyw9hcmdAAGZXF1YWxzc3EAfgAMLG3Vf3QADGFzSW5zdGFuY2VPZnNxAH4ADCnKGVt0AAxzeW5jaHJvbml6ZWRzcQB+AAxsLLNEdAANJGlzSW5zdGFuY2VPZnNxAH4ADJ49+Uh0AAlub3RpZnlBbGxzcQB+AAxn/mctdAAMaXNJbnN0YW5jZU9mc3EAfgAMdQtwKHQAEG51Y2xlb3RpZGVDb3VudHNzcQB+AAxPxcw3dAAGPGluaXQ+c3EAfgAM7cN1+3QAAj09c3EAfgAMUr+lsHQABWNsb25lc3EAfgAM/MgfwXQACHRvU3RyaW5nc3EAfgAMdWY29nQAAiE9c3EAfgAMb9Kz53QACGdldENsYXNzc3EAfgAMLThB2HQAA0ROQXNxAH4ADIehqpt0AAJuZXNxAH4ADBTFJZF0AAJlcXNxAH4ADFOPQY50AAIjI3NxAH4ADN2dc6V0AAhmaW5hbGl6ZXNxAH4ADEDxmXN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AMXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBcc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEVMAAlpbmhlcml0ZWRxAH4ARUwAB3BhcmVudHNxAH4ARXhxAH4AYXNxAH4AXHVxAH4AQAAAAABzcQB+AFx1cQB+AEAAAAAAc3EAfgBcdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBgc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB5dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB6c3EAfgBtdAADQW55c3EAfgBxc3EAfgB0dXEAfgB3AAAAAnNxAH4AeXQABXNjYWxhcQB+AIB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSAIXFZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABPL2hvbWUvc29kZWwvZXhlcmNpc21fZXhlcmNpc2VzL3NjYWxhL251Y2xlb3RpZGUtY291bnQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFg/jDFShTBj47jrd2wKGJxqI8A2
+external apis:
+0 items
+source infos:
+1 items
+/home/sodel/exercism_exercises/scala/nucleotide-count/src/main/scala/DNA.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRsZuGF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9udWNsZW90aWRlLWNvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRscSI51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9udWNsZW90aWRlLWNvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWSAIXFZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9ob21lL3NvZGVsL2V4ZXJjaXNtX2V4ZXJjaXNlcy9zY2FsYS9udWNsZW90aWRlLWNvdW50L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
